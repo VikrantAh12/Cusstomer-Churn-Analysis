@@ -1,4 +1,4 @@
-# Cusstomer-Churn-Analysis
+# Customer-Churn-Analysis
 ## 📁 Project Overview
 
 This project performs exploratory data analysis (EDA) on the **Telco Customer Churn** dataset to uncover insights into customer behavior and the factors that influence churn. The analysis includes data cleaning, transformation, visualization, and interpretation of patterns that could help telecom companies retain customers more effectively.
